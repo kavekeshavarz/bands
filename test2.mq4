@@ -1019,3 +1019,4 @@ void OnChartEvent(const int id, const long &lparam, const double &dparam, const 
       }
    }
 }
+
